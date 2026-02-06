@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeralphdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeralphdev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeralphdev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeralphdev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -41,15 +41,16 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeralphdev&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jeralphdev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeralphdev&theme=react-dark)](https://github.com/jeralphdev)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeralphdev&theme=react-dark" alt="Contribution Graph" />
+</p>
 ---
 
 ## 🏆 Featured Projects
