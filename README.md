@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
+- 🎓 IT Student
 - 💼 Currently working on Machine Learning Projects
-- 🌱 Learning TensorFlow, Deep Learning, and Python
-- 💬 Ask me about Python, Machine Learning, Image Classification
+- 🌱 Learning TensorFlow, Deep Learning, Web Dev Full Stack, PHP and Python
+- 💬 Ask me about Python, Machine Learning, Image Classification. Back End and Front End
 - 📫 How to reach me: [your.email@example.com]
 
 ---
