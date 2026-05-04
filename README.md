@@ -4,7 +4,7 @@
 - 💼 Currently building a Dormitory Management System (DormIT) & Machine Learning Projects
 - 🌱 Learning TensorFlow, Deep Learning, Web Dev Full Stack, PHP and Python
 - 💬 Ask me about Python, Machine Learning, Image Classification, Back End and Front End
-- 📫 How to reach me: [your.email@example.com]
+- 📫 How to reach me: jeralphdev@gmail.com
 
 ---
 
